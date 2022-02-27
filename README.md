@@ -1,2 +1,4 @@
 - 👋 Hi, I’m Mahire Zühal Özdemir
-- I am a computer engineering student
+- I am a computer engineering student at Bursa Technical University.
+- Deep Learning, Artifical Intelligence
+- 
