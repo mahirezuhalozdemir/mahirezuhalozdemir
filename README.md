@@ -1,26 +1,27 @@
 
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> ,Welcome to My Github Page</h1>
+# Hi there ✨ ,Welcome to My Github Page
+
 
 <div align="center">
+ 
+## _CONNECT WITH ME_
 
-
- </div>
-<h3 align="center">Connect With Me:</h3>
-
-<div align="center">
-
+<br/>
+ 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahire-zühal-özdemir-2919002z9)
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zuhalozdemir)
 [![Mail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zuhalzdmr29@gmail.com)](mailto:zuhalzdmr29@gmail.com)
 
  </div> 
  
- <p> <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmahirezuhalozdemir1212%2Fhit-counter"&show_icons=true&theme=white&locale=en" alt="mahirezuhalozdemir" /></p>
+ 
   
-<h3 align="center">My Workspace</h3>
-
 <div align="center">
+ 
+## _MY WORKSPACE_
 
+<br/>
+ 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,10 +46,36 @@
 ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+</div>
 
-<p><img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mahirezuhalozdemir&show_icons=true&cache_seconds=2000&locale=en&layout=compact" alt="mahirezuhalozdemir" /></p>
-  
+<div align="center">
+ 
+ ## _PROJECTS_
+ 
+ <br/>
+ 
+[![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=WebProject_NotbulSite
+)](https://github.com/mahirezuhalozdemir/WebProject_NotbulSite)
+ [![Error Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=HammingCode_ErrorDetection
+)](https://github.com/mahirezuhalozdemir/HammingCode_ErrorDetection)
+ [![Lane Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=LaneDetection
+)](https://github.com/mahirezuhalozdemir/LaneDetection)
+ [![Weather Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=weather-app
+)](https://github.com/mahirezuhalozdemir/weather-app)
+ 
+</div>
+ 
+<div align="center">
+ 
+## _STATS_
 
+<br/>
+ 
  </div>
+ 
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mahirezuhalozdemir&show_icons=true&cache_seconds=2000&locale=en" alt="mahirezuhalozdemir" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmahirezuhalozdemir1212%2Fhit-counter"&show_icons=true&theme=white&locale=en" alt="mahirezuhalozdemir" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirezuhalozdemir&show_icons=true"/>
+
+
 
 
