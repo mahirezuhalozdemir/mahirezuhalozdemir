@@ -13,10 +13,12 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zuhalzdmr29@gmail.com)](mailto:zuhalzdmr29@gmail.com)
 
  </div> 
- 
+ <div>
  <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mahirezuhalozdemir&style=flat-square&color=orange">
 </a>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmahirezuhalozdemir1212%2Fhit-counter"&show_icons=true&theme=white&locale=en" alt="mahirezuhalozdemir" />
+</div>
   
 <div align="center">
  
@@ -77,10 +79,8 @@
 <br/>
  
  </div>
- 
+ <div>
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mahirezuhalozdemir&show_icons=true&cache_seconds=2000&locale=en" alt="mahirezuhalozdemir" />
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmahirezuhalozdemir1212%2Fhit-counter"&show_icons=true&theme=white&locale=en" alt="mahirezuhalozdemir" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirezuhalozdemir&show_icons=true"/>
-
-
-
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mahirezuhalozdemir&show_icons=true"/>
+</div> 
+                                                                                                                
