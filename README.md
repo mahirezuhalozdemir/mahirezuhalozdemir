@@ -65,12 +65,14 @@
  
  <br/>
  
-[![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=WebProject_NotbulSite
-)](https://github.com/mahirezuhalozdemir/WebProject_NotbulSite)
+[![Tutorial Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=Deep_Learning_Tutorial
+)](https://github.com/mahirezuhalozdemir/Deep_Learning_Tutorial)
  [![Error Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=HammingCode_ErrorDetection
 )](https://github.com/mahirezuhalozdemir/HammingCode_ErrorDetection)
  [![Lane Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=LaneDetection
 )](https://github.com/mahirezuhalozdemir/LaneDetection)
+[![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=WebProject_NotbulSite
+)](https://github.com/mahirezuhalozdemir/WebProject_NotbulSite)
  [![Weather Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=weather-app
 )](https://github.com/mahirezuhalozdemir/weather-app)
  
