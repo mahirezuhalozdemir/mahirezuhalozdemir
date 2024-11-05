@@ -6,10 +6,14 @@
 <div align="center">
 
  <div align="left">
-Hi there! 👋
-I'm Zühal, a tech enthusiast with a passion for artificial intelligence and data science. My journey revolves around exploring how AI can transform industries and enhance everyday life. With a background in AI development, I’ve worked on projects in fields such as computer vision and user recognition systems.
+<b>Hi there!</b> 👋<br>
+I'm Zuhal — a tech enthusiast and passionate explorer in the fields of Artificial Intelligence and Data Science.<br><br>
 
-✨ On this GitHub, you’ll find my projects, experiments, and collaborative work. I’m always open to new challenges and opportunities to collaborate on innovative projects!
+💡 <b>About Me</b><br>
+My journey is all about leveraging AI to transform industries and improve everyday life. With a strong foundation in AI development, I’ve worked on projects in areas like Computer Vision and User Recognition Systems, continuously expanding my expertise and applying AI solutions to practical challenges.
+<br><br>
+🚀 <b>What You’ll Find Here</b><br>
+This GitHub is home to my projects, experiments, and collaborations. From exploratory research to collaborative AI solutions, I aim to share meaningful, open-source contributions that push boundaries and inspire innovation.
  </div>
  
 ## _CONNECT WITH ME_
