@@ -74,14 +74,16 @@ I'm Zühal, a tech enthusiast with a passion for artificial intelligence and dat
  
 [![Tutorial Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=Deep_Learning_Tutorial
 )](https://github.com/mahirezuhalozdemir/Deep_Learning_Tutorial)
- [![Error Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=HammingCode_ErrorDetection
-)](https://github.com/mahirezuhalozdemir/HammingCode_ErrorDetection)
- [![Lane Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=LaneDetection
-)](https://github.com/mahirezuhalozdemir/LaneDetection)
+ [![Error Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=Semantic-Analysis-Turkish-NLP
+)](https://github.com/mahirezuhalozdemir/Semantic-Analysis-Turkish-NLP)
+ [![Lane Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=ISUR_Paper-DL_Implementation
+)](https://github.com/mahirezuhalozdemir/ISUR_Paper-DL_Implementation)
+[![Lane Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=Apps-of-Python_in_Bioinformatics
+)](https://github.com/mahirezuhalozdemir/Apps-of-Python_in_Bioinformatics)
+[![Lane Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=Naive-Bayes-and-BBN-with-Heart-Failure-Dataset
+)](https://github.com/mahirezuhalozdemir/Naive-Bayes-and-BBN-with-Heart-Failure-Dataset)
 [![Website Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=WebProject_NotbulSite
 )](https://github.com/mahirezuhalozdemir/WebProject_NotbulSite)
- [![Weather Card](https://github-readme-stats.vercel.app/api/pin/?username=mahirezuhalozdemir&repo=weather-app
-)](https://github.com/mahirezuhalozdemir/weather-app)
  
 </div>
  
