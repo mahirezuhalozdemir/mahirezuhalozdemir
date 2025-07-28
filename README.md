@@ -25,12 +25,14 @@ This GitHub is home to my projects, experiments, and collaborations. From explor
 [![Mail Badge](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zhlzdmr16@gmail.com)](mailto:zhlzdmr16@gmail.com)
 
  </div> 
- <div>
- <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mahirezuhalozdemir&style=flat-square&color=orange">
-</a>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmahirezuhalozdemir1212%2Fhit-counter"&show_icons=true&theme=white&locale=en" alt="mahirezuhalozdemir" />
+<div>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mahirezuhalozdemir&style=flat-square&color=orange" alt="Profile views" />
+  </a>
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmahirezuhalozdemir&label=Hits&icon=award&color=%230a58ca&message=&style=flat&tz=UTC">
+
 </div>
+
   
 <div align="center">
  
